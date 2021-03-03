@@ -1,10 +1,10 @@
-<p align="center">
+<div align="center">
 Hey, I'm Load, passionate about development
 <br>I'm currently learning a lot about that, working on few small projects
 <br><br>
 
 ![Load-Ma](https://img.shields.io/badge/Load-Ma-7248C3?style=for-the-badge) ![Heart](https://img.shields.io/badge/Coding%20with-💜-7248C3?style=for-the-badge)
-</p>
+</div>
 
 <br>
 
